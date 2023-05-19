@@ -1,0 +1,40 @@
+/* <!--
+File: style.css
+Author: Kisgyörgy Bendegúz
+Copyright: 2023, -//-
+Group: Szoft I-2 N
+Date: 2023-05-19
+Github: https://github.com/KisgyuriBeni/
+Licenc: GNU GPL
+--> */
+
+
+h1{
+    padding: 40px;
+    border-bottom: 1px solid black;
+    display: flexbox;
+}
+thead{
+    background-color: rgb(149, 146, 146);
+}
+.about{
+    border:2px solid rgb(149, 146, 146) ;
+    border-radius: 10px  ;
+    border-left: 2px solid black;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 310px;
+    background-color: rgb(149, 146, 146);
+    color: black;
+}
+.idezet{
+    display: inline-flexbox;
+    float: right;
+    margin-right: 300px;
+    font-family: 'Times New Roman';
+    border-radius: 5px;
+    border-left: 2px solid black;
+    padding: 5px;
+    background-color:  rgb(149, 146, 146);
+
+}
